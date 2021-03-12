@@ -1,0 +1,11 @@
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\1.2 - Change a message\bin\Debug\1.2 - Change a message.exe.config
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\1.2 - Change a message\bin\Debug\1.2 - Change a message.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\1.2 - Change a message\bin\Debug\1.2 - Change a message.pdb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\1.2 - Change a message\bin\Debug\1.2 - Change a message.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\1.2 - Change a message\obj\Debug\_1._2___Change_a_message.Form1.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\1.2 - Change a message\obj\Debug\_1._2___Change_a_message.Resources.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\1.2 - Change a message\obj\Debug\1.2 - Change a message.vbproj.GenerateResource.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\1.2 - Change a message\obj\Debug\1.2 - Change a message.vbproj.CoreCompileInputs.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\1.2 - Change a message\obj\Debug\1.2 - Change a message.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\1.2 - Change a message\obj\Debug\1.2 - Change a message.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\1.2 - Change a message\obj\Debug\1.2 - Change a message.pdb
