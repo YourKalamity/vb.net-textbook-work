@@ -1,0 +1,11 @@
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.3 - Displaying the Time\bin\Debug\2.3 - Displaying the Time.exe.config
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.3 - Displaying the Time\bin\Debug\2.3 - Displaying the Time.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.3 - Displaying the Time\bin\Debug\2.3 - Displaying the Time.pdb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.3 - Displaying the Time\bin\Debug\2.3 - Displaying the Time.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.3 - Displaying the Time\obj\Debug\_2._3___Displaying_the_Time.Form1.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.3 - Displaying the Time\obj\Debug\_2._3___Displaying_the_Time.Resources.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.3 - Displaying the Time\obj\Debug\2.3 - Displaying the Time.vbproj.GenerateResource.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.3 - Displaying the Time\obj\Debug\2.3 - Displaying the Time.vbproj.CoreCompileInputs.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.3 - Displaying the Time\obj\Debug\2.3 - Displaying the Time.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.3 - Displaying the Time\obj\Debug\2.3 - Displaying the Time.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.3 - Displaying the Time\obj\Debug\2.3 - Displaying the Time.pdb
