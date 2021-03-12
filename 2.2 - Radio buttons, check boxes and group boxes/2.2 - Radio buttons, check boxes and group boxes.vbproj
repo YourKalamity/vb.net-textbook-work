@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1A52972F-B461-484F-8139-20643B2D7137}</ProjectGuid>
+    <ProjectGuid>{524E83E9-7359-4F86-890E-8C971F9AF47B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>_1._2___Change_a_message.My.MyApplication</StartupObject>
-    <RootNamespace>_1._2___Change_a_message</RootNamespace>
-    <AssemblyName>1.2 - Change a message</AssemblyName>
+    <StartupObject>_2._2___Radio_buttons__check_boxes_and_group_boxes.My.MyApplication</StartupObject>
+    <RootNamespace>_2._2___Radio_buttons__check_boxes_and_group_boxes</RootNamespace>
+    <AssemblyName>2.2 - Radio buttons, check boxes and group boxes</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>1.2 - Change a message.xml</DocumentationFile>
+    <DocumentationFile>2.2 - Radio buttons, check boxes and group boxes.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>1.2 - Change a message.xml</DocumentationFile>
+    <DocumentationFile>2.2 - Radio buttons, check boxes and group boxes.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>

@@ -1,0 +1,11 @@
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.2 - Radio buttons, check boxes and group boxes\bin\Debug\2.2 - Radio buttons, check boxes and group boxes.exe.config
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.2 - Radio buttons, check boxes and group boxes\bin\Debug\2.2 - Radio buttons, check boxes and group boxes.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.2 - Radio buttons, check boxes and group boxes\bin\Debug\2.2 - Radio buttons, check boxes and group boxes.pdb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.2 - Radio buttons, check boxes and group boxes\bin\Debug\2.2 - Radio buttons, check boxes and group boxes.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.2 - Radio buttons, check boxes and group boxes\obj\Debug\_2._2___Radio_buttons__check_boxes_and_group_boxes.main.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.2 - Radio buttons, check boxes and group boxes\obj\Debug\_2._2___Radio_buttons__check_boxes_and_group_boxes.Resources.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.2 - Radio buttons, check boxes and group boxes\obj\Debug\2.2 - Radio buttons, check boxes and group boxes.vbproj.GenerateResource.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.2 - Radio buttons, check boxes and group boxes\obj\Debug\2.2 - Radio buttons, check boxes and group boxes.vbproj.CoreCompileInputs.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.2 - Radio buttons, check boxes and group boxes\obj\Debug\2.2 - Radio buttons, check boxes and group boxes.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.2 - Radio buttons, check boxes and group boxes\obj\Debug\2.2 - Radio buttons, check boxes and group boxes.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.2 - Radio buttons, check boxes and group boxes\obj\Debug\2.2 - Radio buttons, check boxes and group boxes.pdb

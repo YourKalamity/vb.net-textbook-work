@@ -1,0 +1,11 @@
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.1 - A list box of Countries\bin\Debug\2.1 - A list box of Countries.exe.config
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.1 - A list box of Countries\bin\Debug\2.1 - A list box of Countries.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.1 - A list box of Countries\bin\Debug\2.1 - A list box of Countries.pdb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.1 - A list box of Countries\bin\Debug\2.1 - A list box of Countries.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.1 - A list box of Countries\obj\Debug\_2._1___A_list_box_of_Countries.main.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.1 - A list box of Countries\obj\Debug\_2._1___A_list_box_of_Countries.Resources.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.1 - A list box of Countries\obj\Debug\2.1 - A list box of Countries.vbproj.GenerateResource.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.1 - A list box of Countries\obj\Debug\2.1 - A list box of Countries.vbproj.CoreCompileInputs.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.1 - A list box of Countries\obj\Debug\2.1 - A list box of Countries.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.1 - A list box of Countries\obj\Debug\2.1 - A list box of Countries.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\2.1 - A list box of Countries\obj\Debug\2.1 - A list box of Countries.pdb
