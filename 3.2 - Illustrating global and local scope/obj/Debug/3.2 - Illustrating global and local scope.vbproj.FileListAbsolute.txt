@@ -1,0 +1,12 @@
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Illustrating global and local scope\bin\Debug\3.2 - Illustrating global and local scope.exe.config
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Illustrating global and local scope\bin\Debug\3.2 - Illustrating global and local scope.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Illustrating global and local scope\bin\Debug\3.2 - Illustrating global and local scope.pdb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Illustrating global and local scope\bin\Debug\3.2 - Illustrating global and local scope.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Illustrating global and local scope\obj\Debug\3.2 - Illustrating global and local scope.vbprojAssemblyReference.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Illustrating global and local scope\obj\Debug\_3._2___Illustrating_global_and_local_scope.Form1.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Illustrating global and local scope\obj\Debug\_3._2___Illustrating_global_and_local_scope.Resources.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Illustrating global and local scope\obj\Debug\3.2 - Illustrating global and local scope.vbproj.GenerateResource.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Illustrating global and local scope\obj\Debug\3.2 - Illustrating global and local scope.vbproj.CoreCompileInputs.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Illustrating global and local scope\obj\Debug\3.2 - Illustrating global and local scope.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Illustrating global and local scope\obj\Debug\3.2 - Illustrating global and local scope.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Illustrating global and local scope\obj\Debug\3.2 - Illustrating global and local scope.pdb
