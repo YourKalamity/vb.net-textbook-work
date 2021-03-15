@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5980F822-99A7-45F4-921A-9DDB4B680CD8}</ProjectGuid>
+    <ProjectGuid>{19DE8410-8A17-4524-9410-E76D1434BA18}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>_3._2___Using_a_static_variable.My.MyApplication</StartupObject>
-    <RootNamespace>_3._2___Using_a_static_variable</RootNamespace>
-    <AssemblyName>3.2 - Using a static variable</AssemblyName>
+    <StartupObject>_3._4___Calculating_the_average_exam_mark.My.MyApplication</StartupObject>
+    <RootNamespace>_3._4___Calculating_the_average_exam_mark</RootNamespace>
+    <AssemblyName>3.4 - Calculating the average exam mark</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>3.2 - Using a static variable.xml</DocumentationFile>
+    <DocumentationFile>3.4 - Calculating the average exam mark.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>3.2 - Using a static variable.xml</DocumentationFile>
+    <DocumentationFile>3.4 - Calculating the average exam mark.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -73,11 +73,11 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="main.vb">
+    <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="main.Designer.vb">
-      <DependentUpon>main.vb</DependentUpon>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -97,8 +97,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="main.resx">
-      <DependentUpon>main.vb</DependentUpon>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

@@ -1,0 +1,11 @@
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.4 - Calculating the average exam mark\obj\Debug\_3._4___Calculating_the_average_exam_mark.txtMean.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.4 - Calculating the average exam mark\obj\Debug\_3._4___Calculating_the_average_exam_mark.Resources.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.4 - Calculating the average exam mark\obj\Debug\3.4 - Calculating the average exam mark.vbproj.GenerateResource.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.4 - Calculating the average exam mark\obj\Debug\3.4 - Calculating the average exam mark.vbproj.CoreCompileInputs.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.4 - Calculating the average exam mark\bin\Debug\3.4 - Calculating the average exam mark.exe.config
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.4 - Calculating the average exam mark\bin\Debug\3.4 - Calculating the average exam mark.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.4 - Calculating the average exam mark\bin\Debug\3.4 - Calculating the average exam mark.pdb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.4 - Calculating the average exam mark\bin\Debug\3.4 - Calculating the average exam mark.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.4 - Calculating the average exam mark\obj\Debug\3.4 - Calculating the average exam mark.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.4 - Calculating the average exam mark\obj\Debug\3.4 - Calculating the average exam mark.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.4 - Calculating the average exam mark\obj\Debug\3.4 - Calculating the average exam mark.pdb

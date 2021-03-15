@@ -1,4 +1,4 @@
-﻿Public Class Form1
+﻿Public Class main
     Private Sub btnOk_Click(sender As Object, e As EventArgs) Handles btnOk.Click
         Static number As Integer
         number += 1
