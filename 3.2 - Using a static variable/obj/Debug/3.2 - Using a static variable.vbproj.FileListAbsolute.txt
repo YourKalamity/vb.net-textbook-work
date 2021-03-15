@@ -1,0 +1,11 @@
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Using a static variable\bin\Debug\3.2 - Using a static variable.exe.config
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Using a static variable\bin\Debug\3.2 - Using a static variable.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Using a static variable\bin\Debug\3.2 - Using a static variable.pdb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Using a static variable\bin\Debug\3.2 - Using a static variable.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Using a static variable\obj\Debug\_3._2___Using_a_static_variable.Form1.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Using a static variable\obj\Debug\_3._2___Using_a_static_variable.Resources.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Using a static variable\obj\Debug\3.2 - Using a static variable.vbproj.GenerateResource.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Using a static variable\obj\Debug\3.2 - Using a static variable.vbproj.CoreCompileInputs.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Using a static variable\obj\Debug\3.2 - Using a static variable.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Using a static variable\obj\Debug\3.2 - Using a static variable.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\3.2 - Using a static variable\obj\Debug\3.2 - Using a static variable.pdb
