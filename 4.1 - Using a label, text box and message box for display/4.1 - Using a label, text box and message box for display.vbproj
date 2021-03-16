@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{19DE8410-8A17-4524-9410-E76D1434BA18}</ProjectGuid>
+    <ProjectGuid>{D934CEB1-9551-4260-A66C-9D1D617801B9}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>_3._4___Calculating_the_average_exam_mark.My.MyApplication</StartupObject>
-    <RootNamespace>_3._4___Calculating_the_average_exam_mark</RootNamespace>
-    <AssemblyName>3.4 - Calculating the average exam mark</AssemblyName>
+    <StartupObject>_4._1___Using_a_label__text_box_and_message_box_for_display.My.MyApplication</StartupObject>
+    <RootNamespace>_4._1___Using_a_label__text_box_and_message_box_for_display</RootNamespace>
+    <AssemblyName>4.1 - Using a label, text box and message box for display</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>3.4 - Calculating the average exam mark.xml</DocumentationFile>
+    <DocumentationFile>4.1 - Using a label, text box and message box for display.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>3.4 - Calculating the average exam mark.xml</DocumentationFile>
+    <DocumentationFile>4.1 - Using a label, text box and message box for display.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>

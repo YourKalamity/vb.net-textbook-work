@@ -1,0 +1,12 @@
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.1 - Using a label, text box and message box for display\bin\Debug\4.1 - Using a label, text box and message box for display.exe.config
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.1 - Using a label, text box and message box for display\bin\Debug\4.1 - Using a label, text box and message box for display.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.1 - Using a label, text box and message box for display\bin\Debug\4.1 - Using a label, text box and message box for display.pdb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.1 - Using a label, text box and message box for display\bin\Debug\4.1 - Using a label, text box and message box for display.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.1 - Using a label, text box and message box for display\obj\Debug\4.1 - Using a label, text box and message box for display.vbprojAssemblyReference.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.1 - Using a label, text box and message box for display\obj\Debug\_4._1___Using_a_label__text_box_and_message_box_for_display.main.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.1 - Using a label, text box and message box for display\obj\Debug\_4._1___Using_a_label__text_box_and_message_box_for_display.Resources.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.1 - Using a label, text box and message box for display\obj\Debug\4.1 - Using a label, text box and message box for display.vbproj.GenerateResource.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.1 - Using a label, text box and message box for display\obj\Debug\4.1 - Using a label, text box and message box for display.vbproj.CoreCompileInputs.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.1 - Using a label, text box and message box for display\obj\Debug\4.1 - Using a label, text box and message box for display.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.1 - Using a label, text box and message box for display\obj\Debug\4.1 - Using a label, text box and message box for display.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.1 - Using a label, text box and message box for display\obj\Debug\4.1 - Using a label, text box and message box for display.pdb
