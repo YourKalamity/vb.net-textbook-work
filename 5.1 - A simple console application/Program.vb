@@ -19,5 +19,9 @@ Module Program
         Income = (FivePoundTickets * 5) + (TenPoundTickets * 10)
         Expenditure = CostOfBand + CostOfFood + OtherCosts
         Profit = Income - Expenditure
+        Console.WriteLine("Total income is {0}", Format(Income, "Currency"))
+        Console.WriteLine("Total expenditure is {0}", Format(Expenditure, "Currency"))
+        Console.WriteLine("Profit is {0}", String.Format("{0:C}", Profit))
+        Console.ReadLine()
     End Sub
 End Module

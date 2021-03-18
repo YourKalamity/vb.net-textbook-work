@@ -1,0 +1,13 @@
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\5.1 - A simple console application\bin\Debug\netcoreapp3.1\5.1 - A simple console application.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\5.1 - A simple console application\bin\Debug\netcoreapp3.1\5.1 - A simple console application.deps.json
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\5.1 - A simple console application\bin\Debug\netcoreapp3.1\5.1 - A simple console application.runtimeconfig.json
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\5.1 - A simple console application\bin\Debug\netcoreapp3.1\5.1 - A simple console application.runtimeconfig.dev.json
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\5.1 - A simple console application\bin\Debug\netcoreapp3.1\5.1 - A simple console application.dll
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\5.1 - A simple console application\bin\Debug\netcoreapp3.1\5.1 - A simple console application.pdb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\5.1 - A simple console application\obj\Debug\netcoreapp3.1\5.1 - A simple console application.vbprojAssemblyReference.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\5.1 - A simple console application\obj\Debug\netcoreapp3.1\5.1 - A simple console application.AssemblyInfoInputs.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\5.1 - A simple console application\obj\Debug\netcoreapp3.1\5.1 - A simple console application.AssemblyInfo.vb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\5.1 - A simple console application\obj\Debug\netcoreapp3.1\5.1 - A simple console application.vbproj.CoreCompileInputs.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\5.1 - A simple console application\obj\Debug\netcoreapp3.1\5.1 - A simple console application.dll
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\5.1 - A simple console application\obj\Debug\netcoreapp3.1\5.1 - A simple console application.pdb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\5.1 - A simple console application\obj\Debug\netcoreapp3.1\5.1 - A simple console application.genruntimeconfig.cache
