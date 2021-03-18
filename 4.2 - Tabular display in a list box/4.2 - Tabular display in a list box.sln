@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "4.2 - Tabular display in a list box", "4.2 - Tabular display in a list box.vbproj", "{FDD8678B-AD59-4046-BA3B-DB94559962B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDD8678B-AD59-4046-BA3B-DB94559962B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD8678B-AD59-4046-BA3B-DB94559962B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD8678B-AD59-4046-BA3B-DB94559962B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD8678B-AD59-4046-BA3B-DB94559962B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3A7DBD3-8F99-4AEC-B163-4BD558CC6290}
+	EndGlobalSection
+EndGlobal

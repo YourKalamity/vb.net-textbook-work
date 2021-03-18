@@ -1,0 +1,12 @@
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.2 - Tabular display in a list box\bin\Debug\4.2 - Tabular display in a list box.exe.config
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.2 - Tabular display in a list box\bin\Debug\4.2 - Tabular display in a list box.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.2 - Tabular display in a list box\bin\Debug\4.2 - Tabular display in a list box.pdb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.2 - Tabular display in a list box\bin\Debug\4.2 - Tabular display in a list box.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.2 - Tabular display in a list box\obj\Debug\4.2 - Tabular display in a list box.vbprojAssemblyReference.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.2 - Tabular display in a list box\obj\Debug\_4._2___Tabular_display_in_a_list_box.main.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.2 - Tabular display in a list box\obj\Debug\_4._2___Tabular_display_in_a_list_box.Resources.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.2 - Tabular display in a list box\obj\Debug\4.2 - Tabular display in a list box.vbproj.GenerateResource.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.2 - Tabular display in a list box\obj\Debug\4.2 - Tabular display in a list box.vbproj.CoreCompileInputs.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.2 - Tabular display in a list box\obj\Debug\4.2 - Tabular display in a list box.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.2 - Tabular display in a list box\obj\Debug\4.2 - Tabular display in a list box.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\4.2 - Tabular display in a list box\obj\Debug\4.2 - Tabular display in a list box.pdb
