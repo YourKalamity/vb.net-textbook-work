@@ -1,0 +1,12 @@
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.2 - Selecting cutlery\bin\Debug\6.2 - Selecting cutlery.exe.config
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.2 - Selecting cutlery\bin\Debug\6.2 - Selecting cutlery.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.2 - Selecting cutlery\bin\Debug\6.2 - Selecting cutlery.pdb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.2 - Selecting cutlery\bin\Debug\6.2 - Selecting cutlery.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.2 - Selecting cutlery\obj\Debug\6.2 - Selecting cutlery.vbprojAssemblyReference.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.2 - Selecting cutlery\obj\Debug\_6._2___Selecting_cutlery.main.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.2 - Selecting cutlery\obj\Debug\_6._2___Selecting_cutlery.Resources.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.2 - Selecting cutlery\obj\Debug\6.2 - Selecting cutlery.vbproj.GenerateResource.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.2 - Selecting cutlery\obj\Debug\6.2 - Selecting cutlery.vbproj.CoreCompileInputs.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.2 - Selecting cutlery\obj\Debug\6.2 - Selecting cutlery.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.2 - Selecting cutlery\obj\Debug\6.2 - Selecting cutlery.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.2 - Selecting cutlery\obj\Debug\6.2 - Selecting cutlery.pdb

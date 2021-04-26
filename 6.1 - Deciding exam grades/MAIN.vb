@@ -1,4 +1,4 @@
-﻿Public Class Form1
+﻿Public Class MAIN
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Dim Mark As Integer
         Mark = InputBox("Enter an exam mark from 0 to 100")

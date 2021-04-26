@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6DF8ED5B-E6ED-48DA-BC27-239F60A98155}</ProjectGuid>
+    <ProjectGuid>{4A8D3B74-EE91-46B9-9CCD-D1CAC08D48FC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>_6._1___Deciding_exam_grades.My.MyApplication</StartupObject>
-    <RootNamespace>_6._1___Deciding_exam_grades</RootNamespace>
-    <AssemblyName>6.1 - Deciding exam grades</AssemblyName>
+    <StartupObject>_6._2___Selecting_cutlery.My.MyApplication</StartupObject>
+    <RootNamespace>_6._2___Selecting_cutlery</RootNamespace>
+    <AssemblyName>6.2 - Selecting cutlery</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>6.1 - Deciding exam grades.xml</DocumentationFile>
+    <DocumentationFile>6.2 - Selecting cutlery.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>6.1 - Deciding exam grades.xml</DocumentationFile>
+    <DocumentationFile>6.2 - Selecting cutlery.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -73,11 +73,11 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MAIN.vb">
+    <Compile Include="main.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MAIN.Designer.vb">
-      <DependentUpon>MAIN.vb</DependentUpon>
+    <Compile Include="main.Designer.vb">
+      <DependentUpon>main.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -97,8 +97,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="MAIN.resx">
-      <DependentUpon>MAIN.vb</DependentUpon>
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
