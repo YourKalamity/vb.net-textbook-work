@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jLUqpq29wo/c3umaw706UIJEP53ltEFXSxYKg/0kngowj9VPV2hpWA4EOxV7KXd1D/wPKPuJPocSSe550x5WGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kalam\\Documents\\Computer Science A level\\vb.net-textbook-work\\7.3 - Driving Test (Console Application)\\7.3 - Driving Test (Console Application).vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kalam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
