@@ -1,0 +1,12 @@
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.5 - End of Chapter Ex 1\bin\Debug\6.5 - End of Chapter Ex 1.exe.config
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.5 - End of Chapter Ex 1\bin\Debug\6.5 - End of Chapter Ex 1.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.5 - End of Chapter Ex 1\bin\Debug\6.5 - End of Chapter Ex 1.pdb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.5 - End of Chapter Ex 1\bin\Debug\6.5 - End of Chapter Ex 1.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.5 - End of Chapter Ex 1\obj\Debug\6.5 - End of Chapter Ex 1.vbprojAssemblyReference.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.5 - End of Chapter Ex 1\obj\Debug\_6._5___End_of_Chapter_Ex_1.Form1.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.5 - End of Chapter Ex 1\obj\Debug\_6._5___End_of_Chapter_Ex_1.Resources.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.5 - End of Chapter Ex 1\obj\Debug\6.5 - End of Chapter Ex 1.vbproj.GenerateResource.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.5 - End of Chapter Ex 1\obj\Debug\6.5 - End of Chapter Ex 1.vbproj.CoreCompileInputs.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.5 - End of Chapter Ex 1\obj\Debug\6.5 - End of Chapter Ex 1.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.5 - End of Chapter Ex 1\obj\Debug\6.5 - End of Chapter Ex 1.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.5 - End of Chapter Ex 1\obj\Debug\6.5 - End of Chapter Ex 1.pdb

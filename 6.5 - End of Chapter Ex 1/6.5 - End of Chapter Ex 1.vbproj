@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A46D11B6-8761-4F4B-A27B-834F04B71E70}</ProjectGuid>
+    <ProjectGuid>{8ADBF7D1-90A6-4F41-8038-F314EABE9FE0}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>_6._4___Wards_and_Patients.My.MyApplication</StartupObject>
-    <RootNamespace>_6._4___Wards_and_Patients</RootNamespace>
-    <AssemblyName>6.4 - Wards and Patients</AssemblyName>
+    <StartupObject>_6._5___End_of_Chapter_Ex_1.My.MyApplication</StartupObject>
+    <RootNamespace>_6._5___End_of_Chapter_Ex_1</RootNamespace>
+    <AssemblyName>6.5 - End of Chapter Ex 1</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>6.4 - Wards and Patients.xml</DocumentationFile>
+    <DocumentationFile>6.5 - End of Chapter Ex 1.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>6.4 - Wards and Patients.xml</DocumentationFile>
+    <DocumentationFile>6.5 - End of Chapter Ex 1.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
