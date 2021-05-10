@@ -1,0 +1,12 @@
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.3 - Rent a property\bin\Debug\6.3 - Rent a property.exe.config
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.3 - Rent a property\bin\Debug\6.3 - Rent a property.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.3 - Rent a property\bin\Debug\6.3 - Rent a property.pdb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.3 - Rent a property\bin\Debug\6.3 - Rent a property.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.3 - Rent a property\obj\Debug\6.3 - Rent a property.vbprojAssemblyReference.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.3 - Rent a property\obj\Debug\_6._3___Rent_a_property.Form1.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.3 - Rent a property\obj\Debug\_6._3___Rent_a_property.Resources.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.3 - Rent a property\obj\Debug\6.3 - Rent a property.vbproj.GenerateResource.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.3 - Rent a property\obj\Debug\6.3 - Rent a property.vbproj.CoreCompileInputs.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.3 - Rent a property\obj\Debug\6.3 - Rent a property.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.3 - Rent a property\obj\Debug\6.3 - Rent a property.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\6.3 - Rent a property\obj\Debug\6.3 - Rent a property.pdb
