@@ -1,0 +1,11 @@
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.2 - Addition Table\bin\Debug\7.2 - Addition Table.exe.config
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.2 - Addition Table\bin\Debug\7.2 - Addition Table.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.2 - Addition Table\bin\Debug\7.2 - Addition Table.pdb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.2 - Addition Table\bin\Debug\7.2 - Addition Table.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.2 - Addition Table\obj\Debug\_7._2___Addition_Table.Form1.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.2 - Addition Table\obj\Debug\_7._2___Addition_Table.Resources.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.2 - Addition Table\obj\Debug\7.2 - Addition Table.vbproj.GenerateResource.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.2 - Addition Table\obj\Debug\7.2 - Addition Table.vbproj.CoreCompileInputs.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.2 - Addition Table\obj\Debug\7.2 - Addition Table.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.2 - Addition Table\obj\Debug\7.2 - Addition Table.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.2 - Addition Table\obj\Debug\7.2 - Addition Table.pdb
