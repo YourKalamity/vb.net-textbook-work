@@ -1,0 +1,12 @@
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.1 - Multiplication table\bin\Debug\7.1 - Multiplication table.exe.config
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.1 - Multiplication table\bin\Debug\7.1 - Multiplication table.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.1 - Multiplication table\bin\Debug\7.1 - Multiplication table.pdb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.1 - Multiplication table\bin\Debug\7.1 - Multiplication table.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.1 - Multiplication table\obj\Debug\7.1 - Multiplication table.vbprojAssemblyReference.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.1 - Multiplication table\obj\Debug\_7._1___Multiplication_table.Form1.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.1 - Multiplication table\obj\Debug\_7._1___Multiplication_table.Resources.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.1 - Multiplication table\obj\Debug\7.1 - Multiplication table.vbproj.GenerateResource.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.1 - Multiplication table\obj\Debug\7.1 - Multiplication table.vbproj.CoreCompileInputs.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.1 - Multiplication table\obj\Debug\7.1 - Multiplication table.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.1 - Multiplication table\obj\Debug\7.1 - Multiplication table.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\7.1 - Multiplication table\obj\Debug\7.1 - Multiplication table.pdb
