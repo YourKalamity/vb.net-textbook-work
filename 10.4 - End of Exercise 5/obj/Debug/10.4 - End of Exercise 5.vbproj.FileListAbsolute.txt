@@ -1,0 +1,12 @@
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\10.4 - End of Exercise 5\obj\Debug\_10._4___End_of_Exercise_5.Form1.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\10.4 - End of Exercise 5\obj\Debug\_10._4___End_of_Exercise_5.Resources.resources
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\10.4 - End of Exercise 5\obj\Debug\10.4 - End of Exercise 5.vbproj.GenerateResource.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\10.4 - End of Exercise 5\obj\Debug\10.4 - End of Exercise 5.vbproj.CoreCompileInputs.cache
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\10.4 - End of Exercise 5\bin\Debug\10.4 - End of Exercise 5.exe.config
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\10.4 - End of Exercise 5\bin\Debug\10.4 - End of Exercise 5.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\10.4 - End of Exercise 5\bin\Debug\10.4 - End of Exercise 5.pdb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\10.4 - End of Exercise 5\bin\Debug\10.4 - End of Exercise 5.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\10.4 - End of Exercise 5\obj\Debug\10.4 - End of Exercise 5.exe
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\10.4 - End of Exercise 5\obj\Debug\10.4 - End of Exercise 5.xml
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\10.4 - End of Exercise 5\obj\Debug\10.4 - End of Exercise 5.pdb
+C:\Users\Kalam\Documents\Computer Science A level\vb.net-textbook-work\10.4 - End of Exercise 5\obj\Debug\10.4 - End of Exercise 5.vbprojAssemblyReference.cache
